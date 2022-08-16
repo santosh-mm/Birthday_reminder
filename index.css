@@ -1,0 +1,35 @@
+body{
+    background-color: skyblue;
+    font-family: cursive;
+}
+img{
+    width:150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.container{
+    background-color: yellow;
+    border-radius: 50px;
+    padding: 40px;
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+}
+.btn{
+    background-color: plum;
+    padding: 10px;
+    color: blue;
+    font-family: monospace;
+    font-size: 30px;
+    border: groove 5px purple;
+    border-radius: 50px;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: gray;
+    color: aqua;
+
+}
+li{
+    list-style-type: none;
+}
